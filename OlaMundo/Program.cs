@@ -2,6 +2,7 @@
 
 namespace OlaMundo
 {
+    /// Apenas um teste
     class Program
     {
         static void Main(string[] args)
