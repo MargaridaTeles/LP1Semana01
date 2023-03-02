@@ -15,6 +15,12 @@ namespace TiposVarios
             Console.WriteLine(numeros);
             Console.WriteLine(afirmacao);
 
+            char coracao = '♡';
+            char aviao = '✈';
+            Console.WriteLine(coracao);
+            Console.WriteLine(aviao);
+
+
         }
     }
 }
