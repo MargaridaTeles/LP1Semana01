@@ -11,10 +11,11 @@ namespace TiposVarios
             double numeros = 234.78;
             float numeross = 43.245f;
             bool afirmacao = true;
+            bool resposta = false;
             Console.WriteLine(numero1);
             Console.WriteLine(letra);
             Console.WriteLine(numeros);
-            Console.WriteLine(afirmacao);
+            Console.WriteLine(afirmacao+", "+resposta);
             Console.WriteLine(numeross);
 
             char coracao = '♡';
