@@ -2,9 +2,12 @@
 
 namespace OlaMundo
 {
-    /// Apenas um teste
     class Program
     {
+        /// <summary>
+        /// Apenas um teste
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
