@@ -39,6 +39,10 @@ namespace VariousTypes
             Console.WriteLine("Type Double: " + y);
             Console.WriteLine("Type Decimal: " + z);
 
+
+            bool justTrue = true;
+            bool justFalse = false;
+
             
         }
     }
