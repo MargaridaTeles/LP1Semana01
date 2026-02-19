@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace VariousTypes
 {
@@ -15,6 +16,15 @@ namespace VariousTypes
             Console.WriteLine("Type UInt: " + j);
             Console.WriteLine("Type Long: " + k);
             Console.WriteLine("Type ULong: " + n);
+
+            
+            Console.OutputEncoding = Encoding.UTF8;
+
+            char heart = '\u2764';
+            char snowMan = '\u2603';
+            char sun    = '\u2600';
+            char music = '\u266B';
+            
         }
     }
 }
