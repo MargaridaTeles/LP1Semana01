@@ -6,7 +6,10 @@ namespace VariousTypes
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP!");
+            int i = 8;
+            uint j = 3U;
+            long k = 3L;
+            ulong n = 3UL;
         }
     }
 }
