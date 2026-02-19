@@ -24,6 +24,11 @@ namespace VariousTypes
             char snowMan = '\u2603';
             char sun    = '\u2600';
             char music = '\u266B';
+
+            Console.WriteLine("\nHeart Emoji: " + heart);
+            Console.WriteLine("SnowMan Emoji: " + snowMan);
+            Console.WriteLine("Sun Emoji: " + sun);
+            Console.WriteLine("Music Emoji: " + music);
             
         }
     }
