@@ -34,6 +34,11 @@ namespace VariousTypes
             float x = 10.5f;
             double y = 10.5;
             decimal z = 10.5m;
+
+            Console.WriteLine("\nType Float: " + x);
+            Console.WriteLine("Type Double: " + y);
+            Console.WriteLine("Type Decimal: " + z);
+
             
         }
     }
