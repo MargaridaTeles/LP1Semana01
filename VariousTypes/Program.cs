@@ -8,8 +8,13 @@ namespace VariousTypes
         {
             int i = 8;
             uint j = 3U;
-            long k = 3L;
-            ulong n = 3UL;
+            long k = 16L;
+            ulong n = 20UL;
+
+            Console.WriteLine("Type Int: " + i);
+            Console.WriteLine("Type UInt: " + j);
+            Console.WriteLine("Type Long: " + k);
+            Console.WriteLine("Type ULong: " + n);
         }
     }
 }
