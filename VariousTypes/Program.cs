@@ -43,6 +43,9 @@ namespace VariousTypes
             bool justTrue = true;
             bool justFalse = false;
 
+            Console.WriteLine("\n" + justTrue);
+            Console.WriteLine(justFalse);
+
             
         }
     }
