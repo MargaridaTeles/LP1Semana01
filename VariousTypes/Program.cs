@@ -29,6 +29,11 @@ namespace VariousTypes
             Console.WriteLine("SnowMan Emoji: " + snowMan);
             Console.WriteLine("Sun Emoji: " + sun);
             Console.WriteLine("Music Emoji: " + music);
+
+
+            float x = 10.5f;
+            double y = 10.5;
+            decimal z = 10.5m;
             
         }
     }
